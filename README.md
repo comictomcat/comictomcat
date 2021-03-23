@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software development enthusiast and just an average nerd. 
+I'm a software development enthusiast and just an average nerd. You might want to see my main projects, those are pinned below.
 Hope to become a good developer one day
 
 - 🔭 I’m currently working on my health 
@@ -19,6 +19,6 @@ Hope to become a good developer one day
 - 👑 Nim
 
 
-#### Other tools I use
+#### Other tools I use:
 <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="vim" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25" />
 
