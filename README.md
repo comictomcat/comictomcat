@@ -19,4 +19,4 @@ Currently learning:
 
 
 #### Other tools I use
-![vim](https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/vim.svg)
+![](https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/vim.svg)
