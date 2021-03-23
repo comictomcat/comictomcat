@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**comictomcat/comictomcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software development enthusiast and just an average nerd. Hope to become a good developer one day
 
-Here are some ideas to get you started:
+I speak these languages:
+- 🇬🇧 English (B2)
+- 🇷🇺 Russian (natively)
+- 🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- 🦀 Rust
+- 👑 Nim
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=social&logo=telegram)](https://t.me/cmctmct)
