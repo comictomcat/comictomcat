@@ -9,12 +9,12 @@ Hope to become a good developer one day
 - 🌱 I’m currently learning AWS 
 - :zap: Fun fact: 日本語がわからない
 
-### I speak these languages:
+#### I speak these languages:
 - 🇬🇧 English (B2)
 - 🇷🇺 Russian (natively)
 - 🐍 Python
 
-### Currently learning:
+#### Currently learning:
 - 🦀 Rust
 - 👑 Nim
 
