@@ -20,10 +20,5 @@ Currently learning:
 
 
 #### Other tools I use
-<img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.sv" alt="react" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="react" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="react" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="vim" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25" />
 
