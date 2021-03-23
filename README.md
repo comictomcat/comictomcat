@@ -20,4 +20,4 @@ Currently learning:
 
 
 #### Other tools I use
-![](https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg) ![](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg) ![](https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg) ![](https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg) ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) ![](https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg) 
+![vim](https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg) ![](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg) ![](https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg) ![](https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg) ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) ![](https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg) 
