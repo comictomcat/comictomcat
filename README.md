@@ -20,4 +20,10 @@ Currently learning:
 
 
 #### Other tools I use
-![vim](https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg) ![](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg) ![](https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg) ![](https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg) ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) ![](https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg) 
+<img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.sv" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="react" width="25" height="25" />
+
