@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a software development enthusiast and just an average nerd. Hope to become a good developer one day
+I'm a software development enthusiast and just an average nerd. 
+Hope to become a good developer one day
 
 I speak these languages:
 - 🇬🇧 English (B2)
